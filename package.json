@@ -1,6 +1,6 @@
 {
   "name": "@digitlimit/higgsfield",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "description": "A production-grade, strongly typed Node.js SDK for the Higgsfield AI API.",
   "type": "module",
   "main": "./dist/index.js",
@@ -55,7 +55,7 @@
   "devDependencies": {
     "typescript": "^5.8.3"
   },
- "publishConfig": {
+  "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/",
     "tag": "beta"
